@@ -1,5 +1,5 @@
 Сбалансированный (Идеально для JHEP / Physical Review Letters)
-# MEML 7.5 — Model of a Single World Sheet
+# MEML 75 — Model of a Single World Sheet
 
 ## Covariant Orbifold Normalization on T²/Z₃, Derivation of the Gauge 
 ## Coupling and the Suppression Factor from Geometry
@@ -12,7 +12,7 @@
 
 ## Abstract
 
-Version MEML 7.5 addresses the two main open problems of previous revisions 
+Version MEML 75 addresses the two main open problems of previous revisions 
 (v7.0–9.7): the phenomenological status of the bulk coupling constant α_G 
 and the dimensionless suppression factor ε.
 
@@ -281,7 +281,7 @@ superradiance, black holes, ADMX.
 - Zenodo: 10.5281/zenodo.23289871
 
 
-# MEML 7.5 — Модель единого мирового листа
+# MEML 75 — Модель единого мирового листа
 
 ## Ковариантная нормировка орбифолда T²/Z₃, вывод калибровочной константы 
 ## и фактора подавления из геометрии
@@ -294,7 +294,7 @@ superradiance, black holes, ADMX.
 
 ## Аннотация
 
-Версия MEML 7.5 посвящена решению двух главных открытых проблем 
+Версия MEML 75 посвящена решению двух главных открытых проблем 
 предыдущих ревизий : феноменологического статуса bulk-константы 
 связи α_G и безразмерного фактора подавления ε. 
 

@@ -1,0 +1,20 @@
+We present version 75 of the MEML model, an axion paradigm on the
+T^2/Z_3 orbifold in six-dimensional spacetime. The bulk gauge coupling
+alpha_G = 2/(3 pi) = 0.212207 is derived from gaugino condensation of
+a hidden SU(3) group with one flavor of matter (N_f = 1, b_0 = 8). The
+suppression factor epsilon = 2.860924 x 10^-4 is derived from explicit
+Kaluza-Klein spectrum summation. We use the standard reduced Planck
+mass M_Pl = 2.435 x 10^18 GeV, which yields the compactification scale
+m_KK = 2.084 x 10^14 GeV and the 6D fundamental scale M_6 = 2.965 x
+10^16 GeV, naturally coinciding with the GUT scale. The main novelty
+is the first-principles derivation of the axion decay constant
+f_a = M_Pl * epsilon^2 = 1.993 x 10^11 GeV, with no phenomenological
+normalization. This gives an axion mass m_a = 28.22 ueV and a resonance
+frequency nu_a = 6.825 GHz, within the range of high-frequency
+haloscopes ADMX-HF, HAYSTAC, and CAPP. The dark matter density
+Omega_a h^2 = 0.119832 (Planck 2018: 0.120 +/- 0.001) is reproduced
+at the initial misalignment angle theta_i = 2.0043. We also provide a
+rigorous astrophysical module: the superradiant instability targets
+sub-Earth-mass primordial black holes (M_BH ~ 0.63 M_Earth) with an
+open Hawking axion channel (T_H ~ 32 ueV > m_a). All numerical results
+are reproducible via Python scripts.

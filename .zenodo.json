@@ -1,6 +1,6 @@
 {
   "title": "MEML 75 — Model of Single World Sheet (Version B, ADMX-HF)",
-  "description": "MEML 75 is a version of the geometric model of particle identity on the T^2/Z_3 orbifold in six-dimensional spacetime. The axion decay constant is derived from first principles. It predicts an axion mass of 28.22 ueV, a resonance frequency of 6.824 GHz, and primordial black holes with a mass of ~0.63 Earth masses.",
+  "description": "MEML 75 is a version of the geometric model of particle identity on the T^2/Z_3 orbifold in six-dimensional spacetime. The axion decay constant is derived from first principles. It predicts an axion mass of 28.22 ueV, a resonance frequency of 6.824 GHz, and primordial black holes with a mass of ~0.63 Earth masses. Complete reproducibility via Python scripts.",
   "creators": [
     {
       "name": "Юров, Д. В.",

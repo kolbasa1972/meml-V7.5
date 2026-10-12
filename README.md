@@ -1,5 +1,5 @@
 # MEML 75 — Модель единого мирового листа
-
+[![DOI](https://zenodo.org/badge/1414823031.svg)](https://doi.org/10.5281/zenodo.23311953)
 [![Version](https://img.shields.io/badge/version-75-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)]()
